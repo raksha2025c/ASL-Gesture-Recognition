@@ -1,0 +1,34 @@
+# ----------------------------------------------
+# Datatypes - Objects (KEYWORD1)
+# ----------------------------------------------
+
+Flex	KEYWORD1
+
+# ----------------------------------------------
+# Methods / Functions (KEYWORD2)
+# ----------------------------------------------
+
+noSmooth	KEYWORD2
+avgSmooth	KEYWORD2
+runAvgSmooth	KEYWORD2
+expSmooth	KEYWORD2
+setSensorPin	KEYWORD2
+getSensorValue	KEYWORD2
+getMinInput	KEYWORD2
+getMaxInput	KEYWORD2
+setMaxInput	KEYWORD2
+setMinInput	KEYWORD2
+setMinMaxInput	KEYWORD2
+Calibrate	KEYWORD2
+updateVal	KEYWORD2
+isBent	KEYWORD2
+
+# ----------------------------------------------
+# Constants (LITERAL1)
+# ----------------------------------------------
+
+NONE	LITERAL1
+AVG	LITERAL1
+RUN_AVG	LITERAL1
+EXP	LITERAL1
+
